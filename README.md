@@ -181,6 +181,6 @@ SwiftyCalls is available under the MIT license. See the LICENSE file for more in
 
 ## Author
 **Shivansh Gaur**  
-📧 Email: [shivansh.gaur@gmail.com](mailto:shivansh.gaur@gmail.com)  
+📧 Email: [shivanshgaur96@gmail.com](mailto:shivansh.gaur@gmail.com)  
 🔗 GitHub: [ShivanshGaur6096](https://github.com/ShivanshGaur6096)
 
